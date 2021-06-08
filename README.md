@@ -11,7 +11,7 @@ These days I spend most of my time developing the MR HoloLens 2 app for the ARGO
 
 You can find demos of some of my previous work and student projects on my youtube channel -> https://www.youtube.com/watch?v=Y0EE5BmN3-w
 
-You can find my educational background and academic publications on my linkedin channel where you can also contact me -> https://www.linkedin.com/notifications/
+You can find my educational background and academic publications on my linkedin profile where you can also contact me -> https://www.linkedin.com/notifications/
 
 <!---
 klemiba/klemiba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
